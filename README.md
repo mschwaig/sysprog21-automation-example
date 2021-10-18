@@ -18,3 +18,6 @@ nix run .#server
 
 Now you can use the `live-feedback/index.html` file from `sysprog21-automation` to upload code to the go service.
 
+## See also
+
+https://github.com/mschwaig/sysprog21-automation
