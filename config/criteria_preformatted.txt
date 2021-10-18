@@ -1,0 +1,14 @@
+---- comments: ----
+
+---- grading: ----
+
+argument parsing                               (max.   15.00): 
+sum calculation                                (max.   40.00): 
+result printing                                (max.   15.00): 
+readability (e.g. comments and error messages) (max.   30.00): 
+incorrect delivery - archive format etc        (max.  -15.00): 
+late delivery                                  (max.  -20.00): 
+memory allocation bugs                         (max.  -15.00): 
+segmentation faults and undefined behaviour    (max.  -15.00): 
+program does not run at all                    (max.  -25.00): 
+build finished with warnings                   (max.  -15.00): 
